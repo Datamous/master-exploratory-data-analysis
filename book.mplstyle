@@ -1,0 +1,20 @@
+# Chart style for "Master Exploratory Data Analysis".
+# Load it with plt.style.use('book.mplstyle') so your charts match the book.
+
+# Four colors that stay different when printed in black and white:
+# dark teal, amber, light teal, sand. Lines also change style
+# (solid, dashed, dotted, dash-dot) so they can be told apart in gray.
+axes.prop_cycle: cycler('color', ['0b3a47', 'b26a00', '6fb3c2', 'f0c987']) + cycler('linestyle', ['-', '--', ':', '-.'])
+
+# Size in inches (fits a printed book page) and text sizes in points
+figure.figsize: 5.5, 3.4
+font.size: 9.5
+axes.titlesize: 11
+axes.titlelocation: left
+axes.labelsize: 9.5
+legend.fontsize: 9
+
+# Thicker lines; if you turn the grid on (ax.grid()), it is light and sits behind the data
+lines.linewidth: 2
+axes.axisbelow: True
+grid.color: d9dde1

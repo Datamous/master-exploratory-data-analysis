@@ -1,0 +1,2370 @@
+customer_id,cancel_date,reason
+1002,2024-01-08,Too much coffee
+1007,2024-01-16,Other
+1044,2024-01-19,Too much coffee
+1013,2024-01-21,Taste
+1042,2024-01-24,Taste
+1073,2024-01-26,Too expensive
+1004,2024-01-27,Too expensive
+1062,2024-01-27,Too expensive
+1021,2024-01-31,Too much coffee
+1064,2024-02-02,Delivery problems
+1053,2024-02-06,Taste
+1081,2024-02-06,Too much coffee
+1047,2024-02-07,Delivery problems
+1089,2024-02-08,Too much coffee
+1008,2024-02-09,Too much coffee
+1050,2024-02-10,Taste
+1078,2024-02-11,Delivery problems
+1110,2024-02-11,Too expensive
+1068,2024-02-13,Taste
+1106,2024-02-13,Other
+1080,2024-02-16,Taste
+1097,2024-02-16,Too much coffee
+1124,2024-02-17,Too much coffee
+1088,2024-02-20,Delivery problems
+1173,2024-02-21,Too much coffee
+1038,2024-02-22,Too expensive
+1103,2024-02-22,Delivery problems
+1115,2024-02-22,Delivery problems
+1160,2024-02-25,Too much coffee
+1058,2024-02-26,Taste
+1075,2024-02-26,Too expensive
+1143,2024-02-26,Other
+1154,2024-02-26,Other
+1134,2024-02-27,Other
+1137,2024-02-28,Delivery problems
+1128,2024-02-29,Too much coffee
+1192,2024-03-02,Delivery problems
+1212,2024-03-02,Too expensive
+1092,2024-03-04,Taste
+1095,2024-03-07,Too expensive
+1100,2024-03-07,Other
+1104,2024-03-07,Taste
+1176,2024-03-07,Other
+1177,2024-03-07,Taste
+1035,2024-03-08,Too expensive
+1201,2024-03-08,Too expensive
+1194,2024-03-09,Too expensive
+1244,2024-03-09,Taste
+1250,2024-03-09,Other
+1096,2024-03-10,Too expensive
+1237,2024-03-10,Too much coffee
+1144,2024-03-12,Too much coffee
+1204,2024-03-12,Too much coffee
+1233,2024-03-12,Taste
+1253,2024-03-14,Taste
+1256,2024-03-14,Taste
+1028,2024-03-15,Taste
+1284,2024-03-15,Too expensive
+1121,2024-03-16,Other
+1076,2024-03-18,Taste
+1242,2024-03-18,Taste
+1268,2024-03-18,Too much coffee
+1098,2024-03-19,Too much coffee
+1218,2024-03-19,Delivery problems
+1254,2024-03-20,Too much coffee
+1093,2024-03-21,Delivery problems
+1132,2024-03-22,Delivery problems
+1027,2024-03-23,Too much coffee
+1139,2024-03-24,Too much coffee
+1207,2024-03-24,Too much coffee
+1130,2024-03-25,Taste
+1148,2024-03-29,Delivery problems
+1135,2024-03-30,Too much coffee
+1199,2024-03-31,Taste
+1316,2024-03-31,Too expensive
+1014,2024-04-01,Taste
+1203,2024-04-01,Too much coffee
+1221,2024-04-01,Other
+1209,2024-04-02,Too expensive
+1105,2024-04-03,Too expensive
+1239,2024-04-03,Too expensive
+1215,2024-04-05,Too expensive
+1030,2024-04-06,Delivery problems
+1197,2024-04-07,Too much coffee
+1236,2024-04-07,Too expensive
+1335,2024-04-07,Too expensive
+1190,2024-04-09,Too expensive
+1352,2024-04-09,Delivery problems
+1005,2024-04-10,Too much coffee
+1069,2024-04-10,Other
+1101,2024-04-10,Too much coffee
+1189,2024-04-11,Other
+1223,2024-04-11,Taste
+1378,2024-04-11,Taste
+1147,2024-04-12,Too expensive
+1389,2024-04-12,Too expensive
+1341,2024-04-15,Too expensive
+1355,2024-04-15,Too much coffee
+1369,2024-04-15,Taste
+1375,2024-04-17,Too expensive
+1283,2024-04-18,Too expensive
+1333,2024-04-20,Too much coffee
+1344,2024-04-20,Too expensive
+1393,2024-04-20,Delivery problems
+1348,2024-04-21,Other
+1385,2024-04-21,Too much coffee
+1386,2024-04-21,Delivery problems
+1107,2024-04-22,Too expensive
+1269,2024-04-22,Taste
+1270,2024-04-22,Too much coffee
+1357,2024-04-22,Too expensive
+1360,2024-04-22,Too much coffee
+1285,2024-04-24,Too expensive
+1411,2024-04-24,Other
+1118,2024-04-25,Delivery problems
+1123,2024-04-25,Other
+1383,2024-04-25,Too much coffee
+1439,2024-04-25,Taste
+1072,2024-04-26,Delivery problems
+1319,2024-04-26,Too much coffee
+1155,2024-04-27,Other
+1184,2024-04-27,Other
+1259,2024-04-27,Other
+1255,2024-04-28,Too much coffee
+1399,2024-04-28,Too much coffee
+1388,2024-04-29,Too much coffee
+1225,2024-04-30,Other
+1423,2024-04-30,Taste
+1085,2024-05-01,Other
+1153,2024-05-01,Too much coffee
+1217,2024-05-01,Delivery problems
+1314,2024-05-01,Delivery problems
+1457,2024-05-01,Too expensive
+1158,2024-05-02,Other
+1232,2024-05-02,Taste
+1445,2024-05-02,Too expensive
+1234,2024-05-03,Too expensive
+1306,2024-05-03,Too expensive
+1282,2024-05-04,Too much coffee
+1230,2024-05-05,Too much coffee
+1400,2024-05-05,Too expensive
+1243,2024-05-06,Taste
+1396,2024-05-06,Too expensive
+1468,2024-05-06,Too expensive
+1193,2024-05-07,Taste
+1474,2024-05-07,Taste
+1131,2024-05-08,Other
+1229,2024-05-08,Taste
+1398,2024-05-08,Too expensive
+1486,2024-05-08,Too much coffee
+1240,2024-05-09,Too expensive
+1263,2024-05-09,Other
+1456,2024-05-09,Too expensive
+1313,2024-05-10,Too much coffee
+1056,2024-05-11,Taste
+1305,2024-05-11,Other
+1267,2024-05-12,Other
+1340,2024-05-14,Too expensive
+1465,2024-05-15,Too expensive
+1489,2024-05-15,Other
+1491,2024-05-15,Taste
+1022,2024-05-16,Delivery problems
+1365,2024-05-16,Delivery problems
+1156,2024-05-17,Too expensive
+1380,2024-05-17,Too expensive
+1452,2024-05-17,Other
+1479,2024-05-17,Too expensive
+1494,2024-05-17,Delivery problems
+1261,2024-05-18,Delivery problems
+1481,2024-05-18,Too expensive
+1511,2024-05-18,Taste
+1538,2024-05-18,Delivery problems
+1163,2024-05-19,Too expensive
+1170,2024-05-19,Other
+1339,2024-05-19,Too expensive
+1417,2024-05-20,Delivery problems
+1503,2024-05-20,Delivery problems
+1524,2024-05-20,Other
+1136,2024-05-21,Too much coffee
+1257,2024-05-21,Other
+1298,2024-05-21,Too much coffee
+1311,2024-05-23,Too expensive
+1504,2024-05-23,Too expensive
+1512,2024-05-24,Other
+1484,2024-05-25,Taste
+1117,2024-05-26,Too expensive
+1151,2024-05-26,Too much coffee
+1404,2024-05-26,Too expensive
+1182,2024-05-27,Too expensive
+1279,2024-05-28,Other
+1419,2024-05-28,Taste
+1449,2024-05-28,Taste
+1516,2024-05-28,Too expensive
+1281,2024-05-29,Other
+1292,2024-05-30,Too expensive
+1534,2024-05-30,Other
+1520,2024-06-02,Other
+1544,2024-06-02,Too expensive
+1337,2024-06-03,Taste
+1424,2024-06-03,Taste
+1037,2024-06-04,Too much coffee
+1159,2024-06-04,Too expensive
+1248,2024-06-04,Other
+1578,2024-06-04,Too expensive
+1428,2024-06-05,Other
+1065,2024-06-06,Too much coffee
+1601,2024-06-07,Other
+1459,2024-06-08,Too much coffee
+1548,2024-06-08,Other
+1113,2024-06-09,Too expensive
+1426,2024-06-09,Other
+1469,2024-06-10,Taste
+1595,2024-06-11,Delivery problems
+1019,2024-06-12,Delivery problems
+1066,2024-06-12,Delivery problems
+1587,2024-06-12,Too much coffee
+1606,2024-06-13,Other
+1102,2024-06-15,Too much coffee
+1275,2024-06-15,Delivery problems
+1342,2024-06-15,Too much coffee
+1448,2024-06-15,Too much coffee
+1556,2024-06-15,Taste
+1627,2024-06-15,Too much coffee
+1615,2024-06-16,Too much coffee
+1622,2024-06-16,Delivery problems
+1012,2024-06-17,Taste
+1488,2024-06-17,Taste
+1611,2024-06-17,Too much coffee
+1645,2024-06-17,Too much coffee
+1473,2024-06-18,Too expensive
+1519,2024-06-18,Other
+1634,2024-06-18,Taste
+1625,2024-06-19,Too expensive
+1589,2024-06-21,Taste
+1678,2024-06-21,Taste
+1346,2024-06-22,Delivery problems
+1477,2024-06-22,Too much coffee
+1620,2024-06-22,Too expensive
+1640,2024-06-24,Too expensive
+1635,2024-06-25,Too much coffee
+1642,2024-06-25,Taste
+1431,2024-06-26,Taste
+1689,2024-06-26,Too much coffee
+1453,2024-06-27,Too expensive
+1628,2024-06-27,Delivery problems
+1125,2024-06-28,Too much coffee
+1074,2024-06-30,Delivery problems
+1167,2024-06-30,Too expensive
+1632,2024-06-30,Too expensive
+1636,2024-06-30,Other
+1060,2024-07-01,Too expensive
+1458,2024-07-01,Taste
+1715,2024-07-01,Other
+1220,2024-07-02,Too expensive
+1639,2024-07-02,Other
+1562,2024-07-03,Taste
+1572,2024-07-03,Too much coffee
+1575,2024-07-03,Other
+1680,2024-07-03,Too expensive
+1061,2024-07-04,Too expensive
+1086,2024-07-04,Taste
+1206,2024-07-04,Other
+1323,2024-07-04,Too much coffee
+1405,2024-07-04,Taste
+1395,2024-07-05,Delivery problems
+1432,2024-07-05,Other
+1659,2024-07-05,Too expensive
+1057,2024-07-06,Other
+1162,2024-07-06,Too expensive
+1402,2024-07-06,Too expensive
+1467,2024-07-06,Too expensive
+1527,2024-07-06,Too much coffee
+1617,2024-07-06,Too much coffee
+1665,2024-07-06,Too expensive
+1690,2024-07-07,Too expensive
+1310,2024-07-10,Too much coffee
+1684,2024-07-10,Delivery problems
+1686,2024-07-10,Delivery problems
+1710,2024-07-12,Too much coffee
+1328,2024-07-13,Other
+1312,2024-07-14,Too much coffee
+1776,2024-07-14,Other
+1564,2024-07-15,Taste
+1657,2024-07-15,Other
+1787,2024-07-15,Too expensive
+1703,2024-07-16,Taste
+1126,2024-07-17,Other
+1515,2024-07-17,Other
+1537,2024-07-17,Too expensive
+1721,2024-07-17,Too much coffee
+1370,2024-07-18,Too much coffee
+1377,2024-07-18,Too much coffee
+1729,2024-07-18,Taste
+1009,2024-07-20,Other
+1735,2024-07-21,Other
+1116,2024-07-22,Too much coffee
+1613,2024-07-22,Taste
+1782,2024-07-22,Too expensive
+1824,2024-07-23,Other
+1208,2024-07-24,Too expensive
+1734,2024-07-24,Delivery problems
+1790,2024-07-24,Too expensive
+1450,2024-07-25,Other
+1793,2024-07-25,Delivery problems
+1129,2024-07-27,Too expensive
+1406,2024-07-27,Too expensive
+1750,2024-07-27,Other
+1174,2024-07-28,Other
+1437,2024-07-28,Too much coffee
+1539,2024-07-28,Too much coffee
+1807,2024-07-28,Delivery problems
+1834,2024-07-28,Too expensive
+1675,2024-07-29,Taste
+1695,2024-07-29,Too expensive
+1837,2024-07-29,Taste
+1532,2024-07-30,Taste
+1183,2024-07-31,Other
+1436,2024-07-31,Other
+1671,2024-07-31,Other
+1408,2024-08-01,Too expensive
+1164,2024-08-02,Too much coffee
+1702,2024-08-02,Other
+1811,2024-08-02,Taste
+1322,2024-08-03,Too expensive
+1071,2024-08-04,Taste
+1805,2024-08-04,Too much coffee
+1862,2024-08-06,Taste
+1414,2024-08-07,Other
+1605,2024-08-07,Other
+1685,2024-08-08,Taste
+1853,2024-08-08,Taste
+1881,2024-08-08,Other
+1882,2024-08-08,Other
+1570,2024-08-09,Taste
+1737,2024-08-09,Too expensive
+1876,2024-08-09,Too expensive
+1616,2024-08-10,Too expensive
+1200,2024-08-11,Other
+1712,2024-08-12,Taste
+1730,2024-08-12,Delivery problems
+1888,2024-08-12,Taste
+1900,2024-08-12,Other
+1873,2024-08-13,Delivery problems
+1321,2024-08-14,Too expensive
+1874,2024-08-14,Too much coffee
+1382,2024-08-15,Too expensive
+1482,2024-08-15,Too expensive
+1600,2024-08-15,Other
+1644,2024-08-15,Too much coffee
+1331,2024-08-16,Too expensive
+1845,2024-08-16,Other
+1480,2024-08-17,Other
+1838,2024-08-18,Too much coffee
+1934,2024-08-19,Taste
+1025,2024-08-20,Delivery problems
+1529,2024-08-20,Too expensive
+1803,2024-08-20,Other
+1522,2024-08-21,Too much coffee
+1588,2024-08-21,Taste
+1919,2024-08-21,Too expensive
+1500,2024-08-23,Too expensive
+1743,2024-08-24,Delivery problems
+1799,2024-08-24,Too expensive
+1185,2024-08-25,Taste
+1752,2024-08-27,Taste
+1961,2024-08-27,Other
+1629,2024-08-28,Other
+1788,2024-08-28,Too much coffee
+1816,2024-08-28,Other
+1913,2024-08-28,Too expensive
+1526,2024-08-30,Taste
+1763,2024-08-30,Taste
+1894,2024-08-30,Delivery problems
+1802,2024-08-31,Too much coffee
+1889,2024-08-31,Delivery problems
+1172,2024-09-01,Too expensive
+1835,2024-09-01,Too expensive
+1896,2024-09-01,Other
+1898,2024-09-01,Too much coffee
+1706,2024-09-02,Other
+1899,2024-09-02,Taste
+1959,2024-09-02,Other
+1667,2024-09-03,Too expensive
+1836,2024-09-03,Taste
+1795,2024-09-04,Too much coffee
+1808,2024-09-04,Too expensive
+1840,2024-09-04,Too much coffee
+1317,2024-09-06,Too expensive
+2023,2024-09-06,Other
+1349,2024-09-07,Taste
+1814,2024-09-08,Too expensive
+1856,2024-09-08,Too expensive
+1561,2024-09-09,Too expensive
+2038,2024-09-09,Too much coffee
+1216,2024-09-10,Other
+1315,2024-09-10,Other
+1705,2024-09-10,Too expensive
+1860,2024-09-10,Delivery problems
+1957,2024-09-10,Too much coffee
+1048,2024-09-11,Too expensive
+2006,2024-09-11,Delivery problems
+2027,2024-09-11,Taste
+2031,2024-09-11,Other
+1079,2024-09-12,Delivery problems
+1891,2024-09-12,Too expensive
+1952,2024-09-12,Taste
+1998,2024-09-12,Too much coffee
+1902,2024-09-13,Too expensive
+1987,2024-09-13,Too much coffee
+2059,2024-09-13,Delivery problems
+1485,2024-09-14,Delivery problems
+1968,2024-09-14,Taste
+2046,2024-09-14,Too expensive
+1011,2024-09-15,Taste
+1654,2024-09-15,Too expensive
+1525,2024-09-16,Delivery problems
+1728,2024-09-16,Delivery problems
+2069,2024-09-16,Taste
+2078,2024-09-16,Too much coffee
+1241,2024-09-17,Other
+1330,2024-09-17,Delivery problems
+1334,2024-09-17,Too much coffee
+1464,2024-09-17,Delivery problems
+1598,2024-09-17,Other
+1914,2024-09-17,Too expensive
+2039,2024-09-17,Taste
+1171,2024-09-18,Too much coffee
+1869,2024-09-18,Too much coffee
+1877,2024-09-18,Too expensive
+1090,2024-09-19,Other
+1026,2024-09-20,Taste
+1780,2024-09-20,Too much coffee
+1812,2024-09-20,Too expensive
+2084,2024-09-20,Too much coffee
+1366,2024-09-21,Too much coffee
+1624,2024-09-21,Too much coffee
+2019,2024-09-21,Too expensive
+1293,2024-09-22,Other
+1303,2024-09-22,Too much coffee
+2093,2024-09-23,Taste
+1753,2024-09-24,Too much coffee
+2120,2024-09-24,Too much coffee
+1127,2024-09-25,Too expensive
+1804,2024-09-25,Too expensive
+1302,2024-09-26,Taste
+2015,2024-09-26,Too expensive
+1032,2024-09-27,Too much coffee
+1165,2024-09-27,Too expensive
+2034,2024-09-27,Too expensive
+2116,2024-09-27,Too much coffee
+1195,2024-09-28,Too much coffee
+1755,2024-09-28,Taste
+1792,2024-09-28,Other
+1789,2024-09-29,Taste
+2071,2024-09-29,Too much coffee
+1490,2024-09-30,Too much coffee
+2082,2024-09-30,Too expensive
+1847,2024-10-01,Taste
+1935,2024-10-01,Other
+1992,2024-10-01,Too expensive
+2062,2024-10-01,Too expensive
+2064,2024-10-01,Too expensive
+2138,2024-10-01,Delivery problems
+1287,2024-10-02,Taste
+1394,2024-10-02,Too much coffee
+2045,2024-10-02,Other
+1586,2024-10-03,Delivery problems
+1767,2024-10-03,Other
+1972,2024-10-03,Taste
+2090,2024-10-03,Too expensive
+1648,2024-10-04,Taste
+2088,2024-10-04,Taste
+2145,2024-10-04,Taste
+1023,2024-10-05,Delivery problems
+1514,2024-10-05,Delivery problems
+2079,2024-10-05,Taste
+1927,2024-10-06,Too expensive
+2190,2024-10-06,Too much coffee
+1166,2024-10-07,Too expensive
+1454,2024-10-07,Too expensive
+1591,2024-10-07,Delivery problems
+1621,2024-10-07,Too expensive
+1708,2024-10-07,Too much coffee
+1731,2024-10-07,Too much coffee
+1923,2024-10-07,Too expensive
+1336,2024-10-09,Taste
+1800,2024-10-09,Other
+1848,2024-10-09,Other
+1719,2024-10-11,Too expensive
+1829,2024-10-11,Taste
+2024,2024-10-11,Other
+2151,2024-10-12,Too expensive
+1140,2024-10-13,Other
+1245,2024-10-14,Too expensive
+1559,2024-10-14,Other
+1830,2024-10-14,Too expensive
+2212,2024-10-14,Too much coffee
+2228,2024-10-14,Too expensive
+1351,2024-10-16,Too expensive
+2119,2024-10-16,Other
+2162,2024-10-16,Too expensive
+2225,2024-10-16,Delivery problems
+2236,2024-10-16,Too expensive
+2135,2024-10-18,Delivery problems
+2196,2024-10-18,Too expensive
+2226,2024-10-18,Other
+1608,2024-10-19,Too expensive
+1770,2024-10-19,Too expensive
+1084,2024-10-20,Other
+1297,2024-10-20,Too much coffee
+1521,2024-10-20,Other
+1762,2024-10-20,Too expensive
+1930,2024-10-20,Too expensive
+1931,2024-10-20,Delivery problems
+2270,2024-10-20,Too much coffee
+1744,2024-10-21,Delivery problems
+2054,2024-10-22,Taste
+2080,2024-10-22,Taste
+2170,2024-10-22,Other
+2287,2024-10-22,Too expensive
+1015,2024-10-23,Taste
+1442,2024-10-24,Too expensive
+1552,2024-10-24,Delivery problems
+1638,2024-10-24,Delivery problems
+1661,2024-10-24,Taste
+1933,2024-10-24,Other
+2028,2024-10-24,Other
+2167,2024-10-24,Too much coffee
+1277,2024-10-25,Other
+1672,2024-10-25,Delivery problems
+2097,2024-10-26,Too much coffee
+2284,2024-10-26,Too expensive
+1682,2024-10-27,Taste
+1887,2024-10-27,Delivery problems
+1580,2024-10-28,Taste
+1063,2024-10-29,Too expensive
+2201,2024-10-29,Taste
+2204,2024-10-29,Too much coffee
+2322,2024-10-29,Taste
+1924,2024-10-30,Delivery problems
+2099,2024-10-30,Delivery problems
+2152,2024-10-30,Taste
+2326,2024-10-30,Other
+2157,2024-10-31,Too expensive
+1187,2024-11-01,Too expensive
+1374,2024-11-01,Taste
+2141,2024-11-01,Other
+1922,2024-11-02,Too expensive
+2051,2024-11-02,Too expensive
+2175,2024-11-02,Too expensive
+1045,2024-11-03,Too expensive
+2095,2024-11-03,Delivery problems
+1227,2024-11-04,Delivery problems
+1583,2024-11-04,Too much coffee
+2057,2024-11-04,Too expensive
+2244,2024-11-04,Taste
+1338,2024-11-05,Too much coffee
+1831,2024-11-05,Too expensive
+2267,2024-11-05,Delivery problems
+1180,2024-11-06,Too expensive
+1440,2024-11-06,Other
+2173,2024-11-06,Delivery problems
+2266,2024-11-06,Taste
+1846,2024-11-07,Taste
+2294,2024-11-07,Other
+2362,2024-11-08,Other
+1964,2024-11-09,Delivery problems
+1965,2024-11-09,Other
+1067,2024-11-10,Delivery problems
+1320,2024-11-10,Too expensive
+1571,2024-11-10,Other
+2132,2024-11-10,Too expensive
+2298,2024-11-10,Other
+2332,2024-11-10,Delivery problems
+2345,2024-11-10,Too expensive
+2380,2024-11-10,Too expensive
+2020,2024-11-11,Other
+2142,2024-11-11,Other
+1429,2024-11-12,Too expensive
+1720,2024-11-12,Delivery problems
+1833,2024-11-12,Too expensive
+2044,2024-11-12,Too much coffee
+2011,2024-11-13,Other
+1210,2024-11-14,Taste
+1499,2024-11-14,Too much coffee
+1643,2024-11-14,Too expensive
+1764,2024-11-14,Too expensive
+2048,2024-11-14,Delivery problems
+2025,2024-11-15,Too much coffee
+2193,2024-11-15,Too much coffee
+2359,2024-11-15,Too expensive
+1161,2024-11-16,Delivery problems
+1347,2024-11-16,Taste
+1359,2024-11-16,Too much coffee
+1878,2024-11-16,Other
+2139,2024-11-16,Too expensive
+2158,2024-11-16,Other
+2188,2024-11-16,Taste
+2239,2024-11-16,Too expensive
+2360,2024-11-16,Taste
+1401,2024-11-17,Delivery problems
+1709,2024-11-17,Too expensive
+1861,2024-11-17,Delivery problems
+2405,2024-11-17,Too expensive
+1403,2024-11-19,Delivery problems
+1623,2024-11-19,Other
+2083,2024-11-19,Taste
+2235,2024-11-19,Too expensive
+2248,2024-11-19,Too expensive
+1650,2024-11-20,Delivery problems
+1765,2024-11-20,Taste
+1895,2024-11-20,Too expensive
+2052,2024-11-20,Other
+2091,2024-11-20,Other
+2398,2024-11-20,Too expensive
+1114,2024-11-21,Too expensive
+1138,2024-11-21,Taste
+1725,2024-11-21,Too much coffee
+1986,2024-11-21,Delivery problems
+2263,2024-11-21,Too expensive
+2348,2024-11-21,Delivery problems
+2421,2024-11-21,Too much coffee
+2439,2024-11-21,Too expensive
+1094,2024-11-22,Delivery problems
+1658,2024-11-22,Other
+1774,2024-11-22,Delivery problems
+2013,2024-11-22,Too expensive
+2460,2024-11-22,Too much coffee
+1119,2024-11-23,Too expensive
+1651,2024-11-23,Too expensive
+1850,2024-11-23,Too expensive
+2171,2024-11-23,Taste
+1384,2024-11-24,Too much coffee
+1863,2024-11-24,Too expensive
+1020,2024-11-25,Too expensive
+1565,2024-11-25,Too expensive
+1653,2024-11-25,Too expensive
+2260,2024-11-25,Taste
+2438,2024-11-25,Too expensive
+1175,2024-11-26,Too much coffee
+1699,2024-11-26,Other
+1433,2024-11-27,Taste
+1871,2024-11-27,Too expensive
+2041,2024-11-27,Taste
+2445,2024-11-27,Too expensive
+1956,2024-11-28,Too much coffee
+2030,2024-11-28,Too much coffee
+2245,2024-11-28,Too expensive
+2378,2024-11-28,Delivery problems
+2401,2024-11-28,Too much coffee
+2502,2024-11-28,Too expensive
+1410,2024-11-29,Delivery problems
+2101,2024-11-29,Too much coffee
+2125,2024-11-29,Too much coffee
+2150,2024-11-29,Too much coffee
+2237,2024-11-29,Other
+2251,2024-11-29,Too much coffee
+2400,2024-11-29,Too much coffee
+1329,2024-11-30,Other
+2207,2024-11-30,Too expensive
+2463,2024-12-02,Taste
+2486,2024-12-02,Delivery problems
+2523,2024-12-02,Delivery problems
+2253,2024-12-03,Delivery problems
+1530,2024-12-04,Too expensive
+1670,2024-12-04,Too expensive
+1590,2024-12-06,Taste
+2178,2024-12-06,Delivery problems
+2183,2024-12-06,Too expensive
+1099,2024-12-07,Too much coffee
+1573,2024-12-07,Other
+1691,2024-12-07,Too much coffee
+2474,2024-12-07,Other
+2491,2024-12-07,Too expensive
+2495,2024-12-07,Taste
+1483,2024-12-08,Taste
+1733,2024-12-08,Taste
+1885,2024-12-08,Too expensive
+1975,2024-12-08,Too much coffee
+2500,2024-12-08,Delivery problems
+2505,2024-12-08,Too expensive
+2573,2024-12-08,Too expensive
+1614,2024-12-09,Too much coffee
+2192,2024-12-09,Delivery problems
+2540,2024-12-09,Too expensive
+1766,2024-12-11,Too expensive
+2200,2024-12-11,Too expensive
+1372,2024-12-12,Too expensive
+1693,2024-12-12,Too expensive
+2309,2024-12-12,Taste
+2488,2024-12-12,Too expensive
+1893,2024-12-13,Other
+1387,2024-12-14,Too expensive
+1391,2024-12-14,Delivery problems
+1984,2024-12-14,Taste
+2000,2024-12-14,Too expensive
+2032,2024-12-14,Taste
+2590,2024-12-14,Delivery problems
+2603,2024-12-14,Taste
+2614,2024-12-14,Too much coffee
+1758,2024-12-15,Too much coffee
+2527,2024-12-15,Too much coffee
+2604,2024-12-15,Other
+1350,2024-12-16,Other
+1496,2024-12-16,Other
+2406,2024-12-16,Other
+2562,2024-12-16,Too expensive
+2601,2024-12-16,Delivery problems
+1742,2024-12-17,Too expensive
+1920,2024-12-17,Too expensive
+2424,2024-12-17,Too much coffee
+2545,2024-12-17,Other
+1325,2024-12-18,Too much coffee
+2335,2024-12-18,Other
+2517,2024-12-18,Too much coffee
+2544,2024-12-18,Too expensive
+2658,2024-12-18,Too expensive
+2396,2024-12-19,Taste
+2512,2024-12-19,Too expensive
+2556,2024-12-19,Too expensive
+1994,2024-12-20,Other
+2324,2024-12-20,Other
+2521,2024-12-21,Taste
+2587,2024-12-21,Too much coffee
+2602,2024-12-21,Delivery problems
+1112,2024-12-22,Too much coffee
+1864,2024-12-22,Other
+2347,2024-12-22,Taste
+2416,2024-12-22,Delivery problems
+2684,2024-12-22,Delivery problems
+1286,2024-12-23,Too expensive
+1751,2024-12-23,Taste
+2211,2024-12-23,Too much coffee
+2377,2024-12-23,Delivery problems
+1356,2024-12-25,Too much coffee
+1563,2024-12-25,Too expensive
+2393,2024-12-25,Delivery problems
+2561,2024-12-25,Other
+1773,2024-12-26,Other
+2296,2024-12-26,Too much coffee
+1354,2024-12-27,Delivery problems
+2302,2024-12-27,Delivery problems
+2464,2024-12-27,Too much coffee
+2582,2024-12-27,Too much coffee
+2649,2024-12-27,Delivery problems
+1907,2024-12-28,Too much coffee
+2301,2024-12-28,Taste
+2624,2024-12-28,Taste
+2637,2024-12-28,Other
+1696,2024-12-29,Other
+1977,2024-12-29,Delivery problems
+2593,2024-12-29,Taste
+2681,2024-12-29,Taste
+2115,2024-12-30,Delivery problems
+2217,2024-12-30,Taste
+2292,2024-12-30,Too much coffee
+2315,2024-12-30,Other
+2484,2024-12-30,Other
+1040,2024-12-31,Other
+1497,2024-12-31,Too expensive
+1554,2024-12-31,Too much coffee
+2106,2024-12-31,Delivery problems
+2111,2024-12-31,Too much coffee
+2478,2024-12-31,Too expensive
+2480,2024-12-31,Too much coffee
+2504,2024-12-31,Too expensive
+2653,2024-12-31,Too much coffee
+2070,2025-01-01,Too expensive
+2108,2025-01-01,Taste
+2126,2025-01-01,Other
+2223,2025-01-01,Delivery problems
+2413,2025-01-01,Too expensive
+2454,2025-01-01,Other
+2487,2025-01-01,Delivery problems
+2522,2025-01-01,Too much coffee
+2597,2025-01-01,Other
+2623,2025-01-01,Too much coffee
+1825,2025-01-02,Too much coffee
+2058,2025-01-02,Too expensive
+2598,2025-01-02,Delivery problems
+2647,2025-01-02,Other
+2655,2025-01-02,Too expensive
+2747,2025-01-02,Taste
+1228,2025-01-03,Taste
+1546,2025-01-03,Too expensive
+2664,2025-01-03,Other
+2686,2025-01-03,Taste
+1662,2025-01-04,Delivery problems
+2104,2025-01-04,Taste
+2444,2025-01-04,Taste
+2661,2025-01-04,Taste
+2559,2025-01-05,Taste
+2677,2025-01-05,Taste
+1925,2025-01-06,Other
+1954,2025-01-06,Other
+1988,2025-01-06,Taste
+2667,2025-01-06,Too expensive
+2674,2025-01-06,Delivery problems
+1407,2025-01-07,Too expensive
+1447,2025-01-07,Too expensive
+2154,2025-01-07,Taste
+2273,2025-01-07,Taste
+2432,2025-01-07,Delivery problems
+2568,2025-01-07,Too expensive
+2700,2025-01-07,Too expensive
+2701,2025-01-07,Delivery problems
+2715,2025-01-07,Too much coffee
+2660,2025-01-08,Delivery problems
+2743,2025-01-08,Other
+1441,2025-01-09,Too expensive
+2186,2025-01-10,Delivery problems
+2367,2025-01-10,Taste
+2565,2025-01-10,Delivery problems
+2696,2025-01-10,Too much coffee
+2710,2025-01-10,Too expensive
+2731,2025-01-10,Too much coffee
+2779,2025-01-10,Taste
+1597,2025-01-11,Delivery problems
+2110,2025-01-11,Delivery problems
+2455,2025-01-11,Too much coffee
+1950,2025-01-12,Taste
+2472,2025-01-12,Delivery problems
+2699,2025-01-12,Other
+1231,2025-01-13,Taste
+1258,2025-01-13,Other
+2709,2025-01-13,Too much coffee
+2222,2025-01-14,Other
+2567,2025-01-14,Delivery problems
+2569,2025-01-14,Other
+2687,2025-01-14,Too much coffee
+2317,2025-01-15,Other
+2826,2025-01-15,Too expensive
+1866,2025-01-16,Too expensive
+2507,2025-01-16,Other
+2739,2025-01-16,Other
+2748,2025-01-16,Delivery problems
+2305,2025-01-17,Too much coffee
+2372,2025-01-17,Taste
+2531,2025-01-17,Too expensive
+2534,2025-01-17,Delivery problems
+2575,2025-01-17,Too expensive
+2782,2025-01-17,Too much coffee
+1609,2025-01-18,Too expensive
+1912,2025-01-18,Delivery problems
+2375,2025-01-18,Taste
+2387,2025-01-18,Taste
+2552,2025-01-19,Taste
+2557,2025-01-19,Delivery problems
+2822,2025-01-19,Delivery problems
+1224,2025-01-20,Too much coffee
+1271,2025-01-20,Too much coffee
+1470,2025-01-20,Too expensive
+1903,2025-01-20,Taste
+2609,2025-01-20,Other
+2773,2025-01-20,Too expensive
+2179,2025-01-21,Other
+2420,2025-01-21,Too expensive
+2611,2025-01-21,Too expensive
+2354,2025-01-22,Taste
+2382,2025-01-22,Too expensive
+2794,2025-01-22,Too much coffee
+2879,2025-01-22,Too expensive
+2174,2025-01-23,Delivery problems
+2197,2025-01-23,Other
+2229,2025-01-23,Too much coffee
+2341,2025-01-23,Other
+2685,2025-01-23,Taste
+2809,2025-01-23,Too much coffee
+1999,2025-01-24,Taste
+2801,2025-01-24,Too expensive
+2874,2025-01-24,Other
+1368,2025-01-26,Too expensive
+1646,2025-01-26,Delivery problems
+2238,2025-01-26,Taste
+2280,2025-01-26,Too much coffee
+1772,2025-01-27,Taste
+2873,2025-01-27,Other
+1251,2025-01-28,Too much coffee
+2261,2025-01-28,Too expensive
+2443,2025-01-28,Too expensive
+2780,2025-01-28,Other
+2867,2025-01-28,Too much coffee
+2871,2025-01-28,Other
+2876,2025-01-28,Other
+1018,2025-01-29,Too expensive
+1501,2025-01-29,Other
+2076,2025-01-29,Other
+2246,2025-01-29,Too expensive
+2843,2025-01-29,Too expensive
+2896,2025-01-29,Taste
+1542,2025-01-30,Other
+2275,2025-01-30,Too expensive
+2482,2025-01-30,Taste
+2853,2025-01-30,Taste
+2882,2025-01-30,Too expensive
+2913,2025-01-30,Too expensive
+2596,2025-01-31,Other
+2726,2025-01-31,Other
+2884,2025-01-31,Delivery problems
+1700,2025-02-01,Too much coffee
+1585,2025-02-03,Other
+2155,2025-02-03,Too much coffee
+2340,2025-02-03,Too much coffee
+2476,2025-02-03,Too expensive
+2854,2025-02-03,Taste
+2282,2025-02-04,Taste
+2411,2025-02-04,Too much coffee
+2233,2025-02-05,Other
+2513,2025-02-05,Too much coffee
+2893,2025-02-05,Other
+2191,2025-02-06,Too expensive
+1318,2025-02-07,Too much coffee
+1732,2025-02-07,Delivery problems
+1969,2025-02-07,Too expensive
+2259,2025-02-07,Taste
+2735,2025-02-07,Too much coffee
+2922,2025-02-07,Delivery problems
+1557,2025-02-08,Delivery problems
+2727,2025-02-08,Too expensive
+1941,2025-02-09,Delivery problems
+1247,2025-02-10,Too much coffee
+2007,2025-02-10,Other
+2160,2025-02-10,Too much coffee
+1059,2025-02-11,Delivery problems
+1235,2025-02-11,Too much coffee
+1566,2025-02-11,Too much coffee
+2941,2025-02-11,Other
+2728,2025-02-12,Taste
+2815,2025-02-12,Taste
+1145,2025-02-13,Too much coffee
+1584,2025-02-13,Other
+2532,2025-02-13,Too much coffee
+2763,2025-02-13,Too expensive
+2765,2025-02-13,Too expensive
+2953,2025-02-13,Too expensive
+2761,2025-02-14,Other
+2810,2025-02-14,Delivery problems
+2999,2025-02-14,Delivery problems
+2776,2025-02-15,Delivery problems
+2839,2025-02-15,Too expensive
+2921,2025-02-15,Other
+1238,2025-02-16,Too expensive
+2757,2025-02-16,Taste
+2951,2025-02-16,Too much coffee
+2969,2025-02-16,Too expensive
+2198,2025-02-17,Too expensive
+2333,2025-02-17,Taste
+2427,2025-02-17,Too expensive
+2075,2025-02-18,Other
+2262,2025-02-18,Other
+2725,2025-02-18,Delivery problems
+2730,2025-02-18,Too expensive
+3036,2025-02-18,Too expensive
+2555,2025-02-19,Too expensive
+2962,2025-02-19,Too expensive
+3007,2025-02-19,Too expensive
+1289,2025-02-20,Too expensive
+2374,2025-02-20,Too expensive
+2451,2025-02-20,Too expensive
+2656,2025-02-20,Too much coffee
+1813,2025-02-21,Taste
+2646,2025-02-21,Too much coffee
+1046,2025-02-22,Other
+1345,2025-02-22,Taste
+1364,2025-02-22,Other
+2436,2025-02-22,Other
+2956,2025-02-22,Too expensive
+3013,2025-02-22,Too much coffee
+1531,2025-02-23,Too much coffee
+2409,2025-02-23,Too expensive
+2841,2025-02-23,Delivery problems
+2968,2025-02-23,Other
+2621,2025-02-24,Too much coffee
+2648,2025-02-24,Delivery problems
+2878,2025-02-24,Taste
+3040,2025-02-24,Other
+2182,2025-02-25,Other
+2385,2025-02-25,Other
+2812,2025-02-25,Too expensive
+2995,2025-02-25,Too expensive
+2092,2025-02-26,Too expensive
+2576,2025-02-26,Too much coffee
+2583,2025-02-26,Too much coffee
+2827,2025-02-26,Taste
+2852,2025-02-26,Delivery problems
+2961,2025-02-26,Delivery problems
+2979,2025-02-26,Other
+3012,2025-02-26,Too expensive
+3029,2025-02-26,Other
+1652,2025-02-27,Too expensive
+2256,2025-02-27,Other
+2278,2025-02-27,Too expensive
+2581,2025-02-27,Too much coffee
+2889,2025-02-27,Too much coffee
+2990,2025-02-27,Too much coffee
+2277,2025-03-01,Too expensive
+2365,2025-03-01,Too much coffee
+2619,2025-03-01,Too much coffee
+2634,2025-03-01,Too expensive
+2800,2025-03-01,Too expensive
+1070,2025-03-02,Other
+1939,2025-03-02,Too expensive
+2288,2025-03-02,Too expensive
+2613,2025-03-02,Too expensive
+2738,2025-03-02,Too much coffee
+3042,2025-03-02,Delivery problems
+1427,2025-03-03,Too much coffee
+1718,2025-03-03,Too much coffee
+2293,2025-03-03,Delivery problems
+2433,2025-03-03,Too expensive
+2511,2025-03-03,Delivery problems
+2870,2025-03-03,Taste
+3006,2025-03-03,Too much coffee
+3023,2025-03-03,Too expensive
+3025,2025-03-03,Too much coffee
+1087,2025-03-04,Too much coffee
+1821,2025-03-04,Other
+2060,2025-03-04,Taste
+2469,2025-03-04,Other
+2836,2025-03-04,Taste
+3045,2025-03-04,Delivery problems
+1797,2025-03-05,Too much coffee
+2107,2025-03-05,Taste
+2703,2025-03-05,Delivery problems
+2947,2025-03-05,Taste
+2834,2025-03-06,Taste
+3021,2025-03-06,Too much coffee
+2227,2025-03-07,Other
+2254,2025-03-07,Too much coffee
+2493,2025-03-07,Too much coffee
+2651,2025-03-07,Too expensive
+2909,2025-03-07,Other
+3010,2025-03-07,Too much coffee
+3019,2025-03-07,Too expensive
+1663,2025-03-08,Other
+1791,2025-03-08,Too expensive
+1688,2025-03-09,Other
+1979,2025-03-09,Too expensive
+2526,2025-03-09,Other
+2789,2025-03-09,Delivery problems
+2851,2025-03-09,Taste
+3044,2025-03-09,Taste
+2134,2025-03-10,Too expensive
+2768,2025-03-10,Too much coffee
+2885,2025-03-10,Too expensive
+2984,2025-03-10,Too expensive
+3027,2025-03-10,Too expensive
+3065,2025-03-10,Other
+1599,2025-03-11,Too expensive
+1687,2025-03-11,Taste
+2525,2025-03-11,Other
+2811,2025-03-11,Other
+3080,2025-03-11,Too much coffee
+1966,2025-03-12,Taste
+2799,2025-03-12,Taste
+2973,2025-03-12,Delivery problems
+3055,2025-03-12,Too expensive
+1179,2025-03-13,Too expensive
+2693,2025-03-13,Taste
+2697,2025-03-13,Other
+1493,2025-03-14,Taste
+2775,2025-03-14,Too expensive
+2977,2025-03-14,Delivery problems
+3112,2025-03-14,Too much coffee
+1455,2025-03-15,Taste
+1513,2025-03-15,Delivery problems
+1707,2025-03-15,Taste
+2506,2025-03-15,Delivery problems
+2607,2025-03-15,Too expensive
+2980,2025-03-15,Too much coffee
+3068,2025-03-15,Too much coffee
+3156,2025-03-15,Other
+1438,2025-03-16,Too expensive
+2001,2025-03-16,Other
+2136,2025-03-16,Too expensive
+2379,2025-03-16,Delivery problems
+2605,2025-03-16,Too expensive
+2630,2025-03-16,Taste
+2833,2025-03-16,Delivery problems
+2778,2025-03-17,Too much coffee
+2908,2025-03-17,Delivery problems
+3060,2025-03-17,Other
+2050,2025-03-18,Too much coffee
+2856,2025-03-18,Too expensive
+3082,2025-03-18,Too much coffee
+3171,2025-03-18,Too expensive
+1146,2025-03-19,Other
+1361,2025-03-19,Taste
+3095,2025-03-19,Too much coffee
+3111,2025-03-19,Other
+3170,2025-03-20,Delivery problems
+1502,2025-03-21,Too much coffee
+2325,2025-03-21,Other
+2553,2025-03-21,Other
+3100,2025-03-21,Other
+1010,2025-03-22,Other
+1033,2025-03-22,Too much coffee
+2350,2025-03-22,Too much coffee
+2749,2025-03-22,Too much coffee
+3005,2025-03-22,Too expensive
+3135,2025-03-22,Taste
+3181,2025-03-22,Taste
+3200,2025-03-22,Taste
+2271,2025-03-23,Other
+2394,2025-03-23,Delivery problems
+1592,2025-03-24,Too much coffee
+1421,2025-03-25,Other
+1674,2025-03-25,Too expensive
+2832,2025-03-25,Too much coffee
+3169,2025-03-25,Other
+2081,2025-03-26,Too much coffee
+2117,2025-03-26,Taste
+3116,2025-03-26,Other
+2485,2025-03-27,Taste
+2643,2025-03-27,Too expensive
+2762,2025-03-27,Too expensive
+3204,2025-03-27,Too expensive
+2216,2025-03-28,Too expensive
+2414,2025-03-28,Too much coffee
+2425,2025-03-28,Delivery problems
+2571,2025-03-28,Taste
+1926,2025-03-29,Too expensive
+2384,2025-03-29,Too expensive
+2509,2025-03-29,Other
+1784,2025-03-30,Delivery problems
+3245,2025-03-30,Taste
+2399,2025-03-31,Too expensive
+3142,2025-03-31,Too expensive
+3180,2025-03-31,Other
+3240,2025-03-31,Other
+1574,2025-04-01,Too expensive
+2066,2025-04-02,Taste
+3143,2025-04-02,Too expensive
+3144,2025-04-02,Taste
+3228,2025-04-02,Too expensive
+3251,2025-04-02,Taste
+1443,2025-04-03,Delivery problems
+3151,2025-04-03,Other
+3153,2025-04-03,Too expensive
+1536,2025-04-04,Too expensive
+1938,2025-04-04,Taste
+2128,2025-04-04,Other
+2435,2025-04-04,Other
+2712,2025-04-04,Too expensive
+2740,2025-04-04,Too expensive
+1444,2025-04-05,Taste
+1596,2025-04-05,Delivery problems
+1953,2025-04-05,Other
+2902,2025-04-05,Too much coffee
+3052,2025-04-05,Other
+1698,2025-04-06,Other
+2087,2025-04-06,Taste
+2449,2025-04-06,Delivery problems
+2723,2025-04-06,Taste
+2960,2025-04-07,Too much coffee
+2880,2025-04-08,Delivery problems
+3296,2025-04-08,Taste
+1694,2025-04-09,Taste
+2181,2025-04-09,Too much coffee
+2313,2025-04-09,Delivery problems
+2352,2025-04-09,Too expensive
+2665,2025-04-09,Delivery problems
+2901,2025-04-09,Delivery problems
+2905,2025-04-09,Too much coffee
+3282,2025-04-09,Delivery problems
+3297,2025-04-09,Too expensive
+1274,2025-04-10,Other
+2760,2025-04-10,Too much coffee
+3074,2025-04-10,Taste
+3256,2025-04-10,Too expensive
+3118,2025-04-11,Other
+3222,2025-04-11,Delivery problems
+1492,2025-04-12,Taste
+2585,2025-04-12,Other
+2589,2025-04-12,Delivery problems
+3139,2025-04-12,Delivery problems
+3208,2025-04-12,Too expensive
+3217,2025-04-13,Too much coffee
+1641,2025-04-14,Delivery problems
+2159,2025-04-14,Taste
+3089,2025-04-14,Other
+3229,2025-04-14,Taste
+1343,2025-04-15,Other
+1890,2025-04-15,Too much coffee
+2612,2025-04-15,Too expensive
+2838,2025-04-15,Taste
+3216,2025-04-15,Taste
+1741,2025-04-16,Taste
+2954,2025-04-16,Other
+2615,2025-04-17,Too expensive
+2824,2025-04-17,Other
+3092,2025-04-18,Too expensive
+3259,2025-04-18,Too much coffee
+3288,2025-04-18,Other
+3322,2025-04-18,Taste
+3337,2025-04-18,Too much coffee
+2402,2025-04-19,Other
+3305,2025-04-19,Taste
+1376,2025-04-20,Other
+2560,2025-04-20,Delivery problems
+2566,2025-04-20,Too expensive
+2642,2025-04-20,Too much coffee
+3285,2025-04-20,Taste
+1618,2025-04-21,Taste
+2094,2025-04-21,Too much coffee
+2764,2025-04-21,Delivery problems
+3138,2025-04-21,Other
+3311,2025-04-21,Too much coffee
+2803,2025-04-22,Delivery problems
+2994,2025-04-22,Delivery problems
+1052,2025-04-23,Other
+2625,2025-04-23,Taste
+3368,2025-04-23,Delivery problems
+2096,2025-04-24,Taste
+2791,2025-04-24,Taste
+2792,2025-04-24,Too much coffee
+3193,2025-04-24,Other
+3284,2025-04-24,Taste
+2481,2025-04-25,Other
+3360,2025-04-25,Taste
+1003,2025-04-26,Delivery problems
+2033,2025-04-26,Too expensive
+2102,2025-04-26,Too much coffee
+2446,2025-04-26,Taste
+2865,2025-04-26,Delivery problems
+2065,2025-04-27,Other
+3003,2025-04-27,Delivery problems
+3299,2025-04-27,Taste
+3350,2025-04-27,Other
+3113,2025-04-28,Too expensive
+3304,2025-04-28,Taste
+3324,2025-04-28,Taste
+2600,2025-04-29,Too expensive
+3048,2025-04-29,Other
+3165,2025-04-29,Delivery problems
+3416,2025-04-29,Too much coffee
+1463,2025-04-30,Too expensive
+2121,2025-04-30,Taste
+2219,2025-04-30,Too expensive
+3290,2025-04-30,Delivery problems
+3316,2025-04-30,Other
+3375,2025-04-30,Too expensive
+1980,2025-05-01,Taste
+3312,2025-05-01,Delivery problems
+3383,2025-05-01,Taste
+1637,2025-05-02,Too expensive
+2213,2025-05-02,Too expensive
+3035,2025-05-02,Too expensive
+3140,2025-05-02,Too much coffee
+3244,2025-05-02,Too expensive
+3408,2025-05-02,Too expensive
+1082,2025-05-03,Too much coffee
+2131,2025-05-03,Other
+2231,2025-05-03,Taste
+2536,2025-05-04,Too expensive
+3054,2025-05-04,Delivery problems
+3398,2025-05-04,Too expensive
+1692,2025-05-05,Other
+2316,2025-05-05,Other
+2339,2025-05-05,Too much coffee
+2663,2025-05-05,Other
+2930,2025-05-05,Taste
+3106,2025-05-05,Delivery problems
+3261,2025-05-05,Too much coffee
+3363,2025-05-05,Too much coffee
+2842,2025-05-06,Other
+2847,2025-05-06,Delivery problems
+3159,2025-05-06,Too much coffee
+3207,2025-05-06,Delivery problems
+3428,2025-05-06,Delivery problems
+3114,2025-05-07,Too expensive
+3445,2025-05-07,Too expensive
+1246,2025-05-08,Too expensive
+2180,2025-05-08,Too expensive
+2671,2025-05-08,Too expensive
+2917,2025-05-08,Too expensive
+3459,2025-05-08,Other
+2473,2025-05-09,Too much coffee
+3066,2025-05-09,Too much coffee
+3437,2025-05-09,Too expensive
+1723,2025-05-10,Other
+2688,2025-05-10,Too much coffee
+3047,2025-05-10,Taste
+3280,2025-05-10,Too expensive
+3359,2025-05-10,Too expensive
+3435,2025-05-10,Too expensive
+1868,2025-05-11,Taste
+2389,2025-05-11,Delivery problems
+3484,2025-05-11,Taste
+3489,2025-05-11,Too expensive
+2724,2025-05-12,Other
+3315,2025-05-12,Too much coffee
+3421,2025-05-12,Too much coffee
+3453,2025-05-12,Too expensive
+1109,2025-05-13,Too much coffee
+1738,2025-05-13,Too much coffee
+2168,2025-05-13,Taste
+3440,2025-05-13,Too much coffee
+3481,2025-05-13,Other
+3503,2025-05-13,Too much coffee
+1476,2025-05-14,Taste
+1911,2025-05-14,Too expensive
+2496,2025-05-14,Too expensive
+3420,2025-05-15,Taste
+3432,2025-05-15,Too much coffee
+3446,2025-05-15,Delivery problems
+3463,2025-05-15,Taste
+2364,2025-05-16,Too much coffee
+2516,2025-05-16,Too expensive
+2932,2025-05-16,Other
+3085,2025-05-16,Delivery problems
+3384,2025-05-16,Delivery problems
+3402,2025-05-16,Taste
+1983,2025-05-17,Too much coffee
+2790,2025-05-17,Other
+3429,2025-05-17,Delivery problems
+3518,2025-05-17,Other
+1892,2025-05-18,Too much coffee
+2314,2025-05-18,Too much coffee
+3148,2025-05-18,Taste
+3247,2025-05-18,Too expensive
+3404,2025-05-18,Taste
+3523,2025-05-18,Too expensive
+2629,2025-05-19,Too much coffee
+2755,2025-05-19,Other
+2823,2025-05-19,Too expensive
+3451,2025-05-19,Too expensive
+1677,2025-05-20,Taste
+1749,2025-05-20,Too expensive
+2654,2025-05-20,Too expensive
+3405,2025-05-20,Too much coffee
+3406,2025-05-20,Taste
+1901,2025-05-21,Too expensive
+2161,2025-05-21,Other
+2442,2025-05-21,Too expensive
+2574,2025-05-21,Other
+2627,2025-05-21,Other
+3250,2025-05-21,Too expensive
+3499,2025-05-21,Too expensive
+1633,2025-05-22,Taste
+1740,2025-05-22,Taste
+2458,2025-05-22,Too much coffee
+3031,2025-05-22,Too much coffee
+3443,2025-05-22,Taste
+1390,2025-05-23,Other
+1747,2025-05-23,Delivery problems
+2586,2025-05-23,Other
+2650,2025-05-23,Too expensive
+1309,2025-05-24,Too much coffee
+2218,2025-05-24,Taste
+2470,2025-05-24,Other
+2546,2025-05-24,Too much coffee
+3536,2025-05-24,Delivery problems
+2265,2025-05-25,Too expensive
+2295,2025-05-25,Too much coffee
+3370,2025-05-25,Other
+3389,2025-05-25,Too much coffee
+3514,2025-05-25,Other
+3033,2025-05-26,Other
+1017,2025-05-27,Too much coffee
+2307,2025-05-27,Taste
+3266,2025-05-27,Other
+3540,2025-05-27,Other
+3541,2025-05-27,Too much coffee
+1533,2025-05-28,Other
+1962,2025-05-28,Too much coffee
+1971,2025-05-28,Taste
+1976,2025-05-28,Other
+3354,2025-05-28,Too expensive
+1294,2025-05-29,Too expensive
+1817,2025-05-29,Other
+2383,2025-05-29,Too much coffee
+2806,2025-05-29,Other
+3002,2025-05-29,Too much coffee
+3128,2025-05-29,Taste
+3513,2025-05-29,Delivery problems
+2073,2025-05-30,Other
+2124,2025-05-30,Other
+2626,2025-05-30,Other
+3081,2025-05-30,Too expensive
+3227,2025-05-30,Other
+3524,2025-05-30,Taste
+1967,2025-05-31,Delivery problems
+2638,2025-05-31,Delivery problems
+2883,2025-05-31,Delivery problems
+3009,2025-05-31,Delivery problems
+3210,2025-05-31,Too expensive
+3382,2025-05-31,Other
+3509,2025-05-31,Taste
+3552,2025-05-31,Too much coffee
+2224,2025-06-01,Taste
+2408,2025-06-01,Too expensive
+3154,2025-06-01,Other
+3166,2025-06-01,Other
+3507,2025-06-01,Delivery problems
+1055,2025-06-02,Too much coffee
+1196,2025-06-02,Too expensive
+1918,2025-06-02,Too much coffee
+2312,2025-06-02,Taste
+2499,2025-06-02,Delivery problems
+3008,2025-06-02,Other
+3014,2025-06-02,Taste
+3537,2025-06-02,Taste
+3620,2025-06-02,Other
+1851,2025-06-03,Too much coffee
+3622,2025-06-03,Taste
+3413,2025-06-04,Too expensive
+1823,2025-06-05,Other
+3327,2025-06-05,Too much coffee
+3645,2025-06-05,Too much coffee
+2016,2025-06-06,Too much coffee
+2754,2025-06-06,Too much coffee
+3409,2025-06-06,Other
+1547,2025-06-07,Too much coffee
+1928,2025-06-07,Too much coffee
+2718,2025-06-07,Taste
+3223,2025-06-07,Taste
+3575,2025-06-07,Too much coffee
+1034,2025-06-08,Taste
+1560,2025-06-08,Too expensive
+2086,2025-06-08,Other
+2713,2025-06-08,Delivery problems
+3655,2025-06-08,Other
+1828,2025-06-09,Too expensive
+2875,2025-06-09,Other
+1880,2025-06-10,Taste
+2957,2025-06-10,Too expensive
+2971,2025-06-10,Too expensive
+3364,2025-06-10,Other
+3395,2025-06-10,Delivery problems
+3426,2025-06-10,Too expensive
+2344,2025-06-11,Too expensive
+3627,2025-06-11,Too expensive
+3441,2025-06-12,Delivery problems
+2331,2025-06-13,Taste
+2572,2025-06-13,Too much coffee
+3486,2025-06-13,Taste
+2807,2025-06-14,Too much coffee
+2829,2025-06-14,Delivery problems
+3249,2025-06-14,Too much coffee
+3606,2025-06-14,Other
+1509,2025-06-15,Too much coffee
+2072,2025-06-15,Taste
+2539,2025-06-15,Too much coffee
+3517,2025-06-15,Too much coffee
+3650,2025-06-15,Too much coffee
+1353,2025-06-16,Too expensive
+1908,2025-06-16,Taste
+2169,2025-06-16,Delivery problems
+2989,2025-06-16,Other
+3067,2025-06-16,Too much coffee
+3164,2025-06-16,Too much coffee
+3607,2025-06-16,Too much coffee
+2053,2025-06-17,Too much coffee
+3286,2025-06-17,Other
+3526,2025-06-17,Other
+3608,2025-06-17,Too expensive
+2781,2025-06-18,Too expensive
+3303,2025-06-18,Too much coffee
+3454,2025-06-18,Other
+2577,2025-06-19,Too much coffee
+2777,2025-06-19,Too much coffee
+3278,2025-06-19,Taste
+3411,2025-06-19,Other
+3487,2025-06-19,Delivery problems
+3525,2025-06-19,Taste
+3631,2025-06-19,Too expensive
+2172,2025-06-20,Delivery problems
+2639,2025-06-20,Too expensive
+2946,2025-06-20,Other
+3331,2025-06-20,Taste
+3635,2025-06-20,Too much coffee
+3269,2025-06-21,Too expensive
+3519,2025-06-21,Too expensive
+3672,2025-06-21,Too expensive
+3701,2025-06-21,Taste
+3717,2025-06-21,Other
+3108,2025-06-22,Too expensive
+3277,2025-06-22,Other
+3308,2025-06-22,Too much coffee
+3456,2025-06-22,Other
+2285,2025-06-23,Other
+2636,2025-06-23,Other
+3497,2025-06-23,Other
+2055,2025-06-24,Too expensive
+2982,2025-06-24,Other
+3122,2025-06-24,Delivery problems
+3276,2025-06-24,Other
+3379,2025-06-24,Too much coffee
+3706,2025-06-24,Delivery problems
+1757,2025-06-25,Too much coffee
+1827,2025-06-25,Other
+1910,2025-06-25,Delivery problems
+3491,2025-06-25,Taste
+3522,2025-06-25,Delivery problems
+1906,2025-06-26,Delivery problems
+2900,2025-06-26,Delivery problems
+3727,2025-06-26,Other
+1264,2025-06-27,Other
+3736,2025-06-27,Delivery problems
+2698,2025-06-28,Too expensive
+3136,2025-06-28,Too much coffee
+3473,2025-06-28,Other
+3779,2025-06-28,Taste
+1214,2025-06-29,Other
+2452,2025-06-29,Too much coffee
+3291,2025-06-29,Other
+3658,2025-06-29,Too expensive
+3715,2025-06-29,Too much coffee
+3720,2025-06-29,Other
+3757,2025-06-29,Too much coffee
+1568,2025-06-30,Delivery problems
+3224,2025-06-30,Other
+3679,2025-06-30,Too much coffee
+3787,2025-06-30,Delivery problems
+1990,2025-07-01,Too expensive
+3041,2025-07-01,Other
+3077,2025-07-01,Too much coffee
+3775,2025-07-01,Delivery problems
+1713,2025-07-02,Too much coffee
+3309,2025-07-02,Too much coffee
+3362,2025-07-02,Delivery problems
+3674,2025-07-02,Too expensive
+3683,2025-07-02,Taste
+3737,2025-07-02,Other
+2063,2025-07-03,Taste
+2465,2025-07-03,Other
+2837,2025-07-03,Too much coffee
+3578,2025-07-03,Other
+3702,2025-07-03,Too expensive
+3769,2025-07-03,Delivery problems
+1288,2025-07-04,Delivery problems
+1915,2025-07-04,Delivery problems
+2137,2025-07-04,Other
+2872,2025-07-04,Too much coffee
+2935,2025-07-04,Too expensive
+3750,2025-07-04,Delivery problems
+1300,2025-07-05,Delivery problems
+1462,2025-07-05,Other
+2479,2025-07-05,Too expensive
+3030,2025-07-05,Too much coffee
+1917,2025-07-06,Too expensive
+2100,2025-07-06,Too much coffee
+3020,2025-07-06,Delivery problems
+3103,2025-07-07,Other
+3184,2025-07-07,Other
+3556,2025-07-07,Taste
+3804,2025-07-07,Taste
+3046,2025-07-08,Other
+3192,2025-07-08,Taste
+3532,2025-07-08,Other
+3625,2025-07-08,Too expensive
+3785,2025-07-08,Delivery problems
+3792,2025-07-08,Too much coffee
+1363,2025-07-09,Delivery problems
+1373,2025-07-09,Taste
+2114,2025-07-09,Delivery problems
+2558,2025-07-09,Too much coffee
+3570,2025-07-09,Taste
+3571,2025-07-09,Too much coffee
+3721,2025-07-09,Other
+3738,2025-07-09,Delivery problems
+1324,2025-07-10,Too much coffee
+1989,2025-07-10,Other
+3664,2025-07-10,Too much coffee
+3665,2025-07-10,Too expensive
+2328,2025-07-11,Taste
+3126,2025-07-11,Delivery problems
+3733,2025-07-11,Too much coffee
+3753,2025-07-11,Too expensive
+1006,2025-07-12,Other
+2821,2025-07-12,Taste
+3425,2025-07-12,Other
+3649,2025-07-12,Taste
+3755,2025-07-12,Too much coffee
+2215,2025-07-14,Too expensive
+2952,2025-07-14,Other
+3469,2025-07-14,Taste
+2195,2025-07-15,Taste
+3396,2025-07-15,Taste
+3401,2025-07-15,Too expensive
+3749,2025-07-15,Taste
+3783,2025-07-15,Too much coffee
+3824,2025-07-15,Other
+1842,2025-07-16,Too much coffee
+2156,2025-07-16,Other
+2327,2025-07-16,Too expensive
+3101,2025-07-16,Too expensive
+3307,2025-07-16,Delivery problems
+3495,2025-07-16,Too much coffee
+3670,2025-07-16,Too expensive
+3748,2025-07-16,Taste
+3797,2025-07-16,Delivery problems
+2855,2025-07-17,Too expensive
+3436,2025-07-17,Too expensive
+2752,2025-07-18,Other
+3501,2025-07-18,Other
+3603,2025-07-18,Too expensive
+3776,2025-07-18,Too expensive
+3660,2025-07-19,Other
+3786,2025-07-19,Other
+3844,2025-07-19,Too much coffee
+2355,2025-07-20,Other
+3351,2025-07-20,Delivery problems
+3460,2025-07-20,Too expensive
+3467,2025-07-20,Too much coffee
+3810,2025-07-20,Too expensive
+1679,2025-07-21,Too much coffee
+1771,2025-07-21,Other
+2242,2025-07-21,Too expensive
+2967,2025-07-21,Too expensive
+3474,2025-07-21,Too much coffee
+1785,2025-07-22,Too much coffee
+3790,2025-07-22,Other
+3802,2025-07-22,Taste
+3825,2025-07-22,Too expensive
+3555,2025-07-23,Too expensive
+3868,2025-07-23,Other
+3692,2025-07-24,Too expensive
+3807,2025-07-24,Too much coffee
+3870,2025-07-24,Delivery problems
+2886,2025-07-25,Taste
+3179,2025-07-25,Too expensive
+3205,2025-07-25,Too expensive
+3696,2025-07-25,Other
+3940,2025-07-25,Other
+2606,2025-07-26,Too expensive
+3117,2025-07-26,Delivery problems
+3147,2025-07-26,Too expensive
+3853,2025-07-26,Too much coffee
+3024,2025-07-28,Delivery problems
+3485,2025-07-28,Other
+2133,2025-07-29,Other
+2510,2025-07-29,Too much coffee
+3909,2025-07-29,Too expensive
+2289,2025-07-30,Other
+2299,2025-07-30,Too expensive
+3206,2025-07-30,Delivery problems
+3385,2025-07-30,Too much coffee
+3504,2025-07-30,Taste
+3713,2025-07-30,Other
+3760,2025-07-30,Delivery problems
+3857,2025-07-30,Other
+3201,2025-07-31,Too expensive
+3520,2025-07-31,Delivery problems
+1446,2025-08-01,Too much coffee
+1940,2025-08-01,Delivery problems
+2461,2025-08-01,Too much coffee
+2711,2025-08-01,Other
+2920,2025-08-01,Delivery problems
+3510,2025-08-01,Too expensive
+3705,2025-08-01,Other
+3744,2025-08-01,Too expensive
+3762,2025-08-01,Too much coffee
+3896,2025-08-01,Too expensive
+3011,2025-08-02,Taste
+3075,2025-08-02,Too much coffee
+3369,2025-08-02,Delivery problems
+2846,2025-08-03,Too expensive
+3805,2025-08-03,Taste
+3991,2025-08-03,Taste
+2353,2025-08-04,Too much coffee
+3391,2025-08-04,Taste
+3880,2025-08-04,Too expensive
+1736,2025-08-05,Delivery problems
+2501,2025-08-05,Other
+3155,2025-08-05,Too much coffee
+3730,2025-08-05,Other
+3886,2025-08-05,Taste
+3527,2025-08-06,Taste
+3981,2025-08-06,Too expensive
+2542,2025-08-07,Too expensive
+2850,2025-08-07,Too expensive
+3770,2025-08-07,Delivery problems
+1676,2025-08-08,Taste
+2194,2025-08-08,Too much coffee
+2680,2025-08-08,Too much coffee
+3167,2025-08-08,Taste
+3202,2025-08-08,Other
+3573,2025-08-08,Other
+3722,2025-08-08,Taste
+3756,2025-08-08,Other
+3796,2025-08-08,Taste
+2529,2025-08-09,Too much coffee
+2690,2025-08-09,Taste
+2895,2025-08-09,Too expensive
+3636,2025-08-09,Too expensive
+3213,2025-08-10,Too expensive
+3728,2025-08-10,Taste
+3801,2025-08-10,Other
+3803,2025-08-10,Taste
+4034,2025-08-10,Taste
+1553,2025-08-11,Taste
+1717,2025-08-11,Delivery problems
+2695,2025-08-11,Other
+3050,2025-08-11,Too much coffee
+3243,2025-08-11,Too expensive
+3262,2025-08-11,Too much coffee
+3855,2025-08-11,Too much coffee
+3973,2025-08-11,Other
+4004,2025-08-11,Taste
+1332,2025-08-12,Delivery problems
+1577,2025-08-12,Too much coffee
+1973,2025-08-12,Other
+2997,2025-08-12,Too much coffee
+3747,2025-08-12,Too expensive
+4010,2025-08-12,Taste
+2466,2025-08-13,Too expensive
+3241,2025-08-13,Too expensive
+4003,2025-08-13,Too expensive
+1472,2025-08-14,Too much coffee
+1955,2025-08-14,Other
+2494,2025-08-14,Delivery problems
+2519,2025-08-14,Too expensive
+3246,2025-08-14,Taste
+3671,2025-08-14,Delivery problems
+4081,2025-08-14,Too much coffee
+1958,2025-08-15,Too much coffee
+2737,2025-08-15,Too much coffee
+2993,2025-08-15,Too expensive
+3132,2025-08-15,Too expensive
+3488,2025-08-15,Too expensive
+3941,2025-08-15,Delivery problems
+3479,2025-08-16,Too expensive
+2714,2025-08-17,Delivery problems
+3894,2025-08-17,Other
+3948,2025-08-17,Other
+2415,2025-08-18,Taste
+3004,2025-08-18,Too expensive
+3242,2025-08-18,Too much coffee
+3712,2025-08-18,Too expensive
+3979,2025-08-18,Taste
+3970,2025-08-19,Too expensive
+4012,2025-08-19,Other
+4030,2025-08-19,Too expensive
+1461,2025-08-20,Too much coffee
+1681,2025-08-20,Too much coffee
+3512,2025-08-20,Too expensive
+2166,2025-08-21,Taste
+2996,2025-08-21,Too expensive
+2274,2025-08-22,Other
+2428,2025-08-22,Delivery problems
+2594,2025-08-22,Too expensive
+3646,2025-08-22,Too expensive
+3700,2025-08-22,Other
+3882,2025-08-22,Delivery problems
+4041,2025-08-22,Other
+3317,2025-08-23,Too expensive
+2035,2025-08-24,Too expensive
+3343,2025-08-24,Too much coffee
+3633,2025-08-24,Other
+3836,2025-08-24,Taste
+3901,2025-08-24,Too much coffee
+2475,2025-08-25,Too much coffee
+3656,2025-08-25,Too expensive
+3841,2025-08-25,Too expensive
+2659,2025-08-26,Too expensive
+3161,2025-08-26,Too much coffee
+3330,2025-08-26,Delivery problems
+2849,2025-08-27,Other
+2983,2025-08-27,Delivery problems
+3583,2025-08-27,Other
+2437,2025-08-28,Delivery problems
+3325,2025-08-28,Too expensive
+3652,2025-08-28,Too expensive
+3766,2025-08-28,Too much coffee
+3898,2025-08-28,Too much coffee
+4094,2025-08-28,Delivery problems
+4056,2025-08-29,Other
+4100,2025-08-29,Taste
+4158,2025-08-29,Other
+3188,2025-08-30,Taste
+3294,2025-08-30,Too expensive
+3332,2025-08-30,Taste
+3542,2025-08-30,Too much coffee
+3740,2025-08-30,Other
+2881,2025-08-31,Too much coffee
+3605,2025-08-31,Other
+4162,2025-08-31,Other
+1049,2025-09-01,Too expensive
+2403,2025-09-01,Other
+3185,2025-09-01,Taste
+3926,2025-09-01,Taste
+3988,2025-09-01,Too expensive
+4155,2025-09-01,Delivery problems
+2074,2025-09-02,Delivery problems
+2419,2025-09-03,Other
+2453,2025-09-03,Too expensive
+3992,2025-09-03,Too expensive
+3639,2025-09-04,Other
+3681,2025-09-04,Other
+4209,2025-09-05,Too expensive
+1841,2025-09-06,Too much coffee
+2766,2025-09-06,Too expensive
+3279,2025-09-06,Too much coffee
+3461,2025-09-06,Too expensive
+4138,2025-09-06,Taste
+1327,2025-09-07,Delivery problems
+2003,2025-09-07,Taste
+3904,2025-09-07,Taste
+4139,2025-09-07,Taste
+3424,2025-09-08,Delivery problems
+4106,2025-09-08,Too much coffee
+4215,2025-09-08,Too expensive
+2089,2025-09-09,Taste
+2707,2025-09-09,Too expensive
+3604,2025-09-09,Taste
+4211,2025-09-09,Other
+2813,2025-09-11,Taste
+4019,2025-09-11,Too expensive
+4230,2025-09-11,Too expensive
+2214,2025-09-12,Too much coffee
+2306,2025-09-12,Delivery problems
+3560,2025-09-12,Taste
+3754,2025-09-12,Delivery problems
+3784,2025-09-12,Taste
+3823,2025-09-12,Too expensive
+3572,2025-09-13,Too expensive
+3584,2025-09-13,Too much coffee
+2177,2025-09-14,Delivery problems
+2708,2025-09-14,Other
+3483,2025-09-14,Taste
+3668,2025-09-14,Too expensive
+4141,2025-09-14,Too expensive
+4148,2025-09-14,Too expensive
+4173,2025-09-14,Delivery problems
+4260,2025-09-14,Too much coffee
+3099,2025-09-15,Too expensive
+3758,2025-09-15,Too expensive
+3793,2025-09-15,Too much coffee
+3832,2025-09-15,Taste
+4178,2025-09-15,Other
+4274,2025-09-15,Too much coffee
+4275,2025-09-15,Too much coffee
+1451,2025-09-16,Too expensive
+3295,2025-09-16,Taste
+3987,2025-09-16,Taste
+4095,2025-09-16,Too expensive
+4160,2025-09-16,Too expensive
+4206,2025-09-16,Taste
+4264,2025-09-16,Taste
+2392,2025-09-17,Other
+2528,2025-09-17,Too expensive
+2746,2025-09-17,Other
+3352,2025-09-17,Too expensive
+3422,2025-09-17,Too expensive
+3593,2025-09-17,Too much coffee
+1517,2025-09-18,Too much coffee
+2844,2025-09-18,Other
+3989,2025-09-18,Taste
+4047,2025-09-18,Too expensive
+4060,2025-09-18,Too expensive
+4154,2025-09-18,Too much coffee
+4243,2025-09-18,Taste
+4280,2025-09-18,Too expensive
+3168,2025-09-19,Delivery problems
+3710,2025-09-20,Too much coffee
+4202,2025-09-20,Too much coffee
+3355,2025-09-21,Too much coffee
+4292,2025-09-21,Other
+1029,2025-09-22,Too expensive
+1523,2025-09-22,Too expensive
+3565,2025-09-22,Other
+4266,2025-09-22,Other
+4296,2025-09-22,Too expensive
+1660,2025-09-23,Other
+2608,2025-09-23,Other
+3561,2025-09-23,Too expensive
+3874,2025-09-23,Taste
+3878,2025-09-23,Too much coffee
+4286,2025-09-23,Too much coffee
+1425,2025-09-24,Taste
+3811,2025-09-24,Too much coffee
+4333,2025-09-24,Too much coffee
+2798,2025-09-25,Too much coffee
+3471,2025-09-25,Delivery problems
+3687,2025-09-25,Too expensive
+4093,2025-09-25,Too expensive
+4337,2025-09-25,Other
+3946,2025-09-26,Taste
+4020,2025-09-26,Other
+4279,2025-09-26,Other
+1265,2025-09-27,Too expensive
+3521,2025-09-27,Taste
+3835,2025-09-27,Too expensive
+4018,2025-09-27,Too expensive
+3697,2025-09-28,Too much coffee
+4212,2025-09-28,Too expensive
+1796,2025-09-29,Too expensive
+3400,2025-09-29,Too much coffee
+4251,2025-09-29,Too expensive
+4305,2025-09-29,Taste
+4381,2025-09-29,Taste
+1704,2025-09-30,Too much coffee
+2061,2025-09-30,Too expensive
+3538,2025-09-30,Too expensive
+3682,2025-09-30,Delivery problems
+3735,2025-09-30,Too expensive
+3929,2025-09-30,Other
+4249,2025-09-30,Too expensive
+4263,2025-09-30,Too much coffee
+1222,2025-10-01,Too expensive
+2704,2025-10-01,Too expensive
+3794,2025-10-01,Too expensive
+3958,2025-10-01,Taste
+4118,2025-10-01,Too expensive
+4312,2025-10-01,Other
+4390,2025-10-01,Too much coffee
+1819,2025-10-02,Too much coffee
+3334,2025-10-02,Too much coffee
+3553,2025-10-02,Too expensive
+4350,2025-10-02,Too expensive
+2269,2025-10-03,Other
+2835,2025-10-03,Taste
+3174,2025-10-03,Delivery problems
+4247,2025-10-03,Too much coffee
+4356,2025-10-03,Too expensive
+4397,2025-10-03,Too much coffee
+4417,2025-10-03,Too expensive
+2429,2025-10-04,Taste
+2919,2025-10-04,Delivery problems
+3505,2025-10-04,Too much coffee
+3963,2025-10-04,Too expensive
+2230,2025-10-05,Too expensive
+3160,2025-10-05,Other
+4302,2025-10-05,Other
+2234,2025-10-06,Too expensive
+2300,2025-10-06,Too much coffee
+2343,2025-10-06,Too much coffee
+2670,2025-10-06,Too much coffee
+2862,2025-10-06,Too expensive
+3051,2025-10-06,Delivery problems
+3235,2025-10-06,Delivery problems
+4096,2025-10-06,Delivery problems
+4124,2025-10-06,Too expensive
+4271,2025-10-06,Too expensive
+1879,2025-10-07,Other
+2105,2025-10-07,Taste
+2543,2025-10-07,Delivery problems
+4365,2025-10-07,Delivery problems
+2503,2025-10-08,Too much coffee
+3271,2025-10-08,Too much coffee
+3610,2025-10-08,Too much coffee
+4025,2025-10-08,Other
+4171,2025-10-08,Delivery problems
+3273,2025-10-09,Too expensive
+3531,2025-10-09,Too much coffee
+3819,2025-10-09,Taste
+4293,2025-10-09,Delivery problems
+4373,2025-10-09,Taste
+1039,2025-10-10,Too expensive
+2358,2025-10-10,Other
+3999,2025-10-10,Taste
+4119,2025-10-10,Taste
+4454,2025-10-10,Too much coffee
+1872,2025-10-11,Delivery problems
+3231,2025-10-11,Too expensive
+3653,2025-10-11,Too expensive
+3847,2025-10-12,Too much coffee
+4033,2025-10-12,Too expensive
+1724,2025-10-13,Taste
+1768,2025-10-13,Other
+2987,2025-10-13,Too expensive
+3063,2025-10-13,Too much coffee
+3120,2025-10-13,Too expensive
+3590,2025-10-13,Too much coffee
+3780,2025-10-13,Too expensive
+3916,2025-10-13,Taste
+3935,2025-10-13,Delivery problems
+3994,2025-10-13,Other
+4422,2025-10-13,Other
+2722,2025-10-14,Delivery problems
+2771,2025-10-14,Too expensive
+3049,2025-10-14,Other
+3390,2025-10-14,Delivery problems
+4493,2025-10-14,Too much coffee
+2029,2025-10-15,Delivery problems
+4059,2025-10-15,Too expensive
+4367,2025-10-15,Taste
+1508,2025-10-16,Too expensive
+1865,2025-10-16,Taste
+2308,2025-10-16,Too expensive
+3691,2025-10-16,Taste
+3871,2025-10-16,Too expensive
+3393,2025-10-17,Delivery problems
+3623,2025-10-17,Other
+4449,2025-10-17,Too expensive
+4482,2025-10-17,Too expensive
+1142,2025-10-18,Other
+2272,2025-10-18,Delivery problems
+2381,2025-10-18,Too expensive
+3530,2025-10-18,Taste
+3966,2025-10-18,Too much coffee
+4032,2025-10-18,Too much coffee
+3310,2025-10-19,Too expensive
+3476,2025-10-19,Delivery problems
+3900,2025-10-19,Too much coffee
+3335,2025-10-20,Too expensive
+3858,2025-10-20,Too much coffee
+4185,2025-10-20,Taste
+3617,2025-10-21,Other
+3686,2025-10-21,Too expensive
+3873,2025-10-21,Taste
+3906,2025-10-21,Too expensive
+4055,2025-10-21,Taste
+4420,2025-10-21,Too much coffee
+1371,2025-10-22,Too much coffee
+1857,2025-10-22,Other
+2548,2025-10-22,Delivery problems
+3254,2025-10-22,Too expensive
+3798,2025-10-22,Too expensive
+4536,2025-10-22,Too much coffee
+3725,2025-10-23,Other
+3815,2025-10-23,Delivery problems
+4231,2025-10-23,Other
+4465,2025-10-23,Other
+4506,2025-10-23,Too much coffee
+2678,2025-10-24,Too much coffee
+3629,2025-10-24,Taste
+2949,2025-10-25,Too much coffee
+3897,2025-10-25,Too expensive
+4007,2025-10-25,Taste
+4070,2025-10-25,Taste
+4237,2025-10-25,Delivery problems
+4498,2025-10-25,Too expensive
+1367,2025-10-26,Too much coffee
+3196,2025-10-26,Too expensive
+3711,2025-10-26,Taste
+3829,2025-10-26,Delivery problems
+4317,2025-10-26,Too expensive
+4352,2025-10-26,Too expensive
+1152,2025-10-27,Taste
+2386,2025-10-27,Delivery problems
+4091,2025-10-27,Too expensive
+4283,2025-10-27,Too much coffee
+2635,2025-10-28,Too expensive
+2926,2025-10-28,Too expensive
+4052,2025-10-28,Too expensive
+2591,2025-10-29,Too expensive
+3761,2025-10-29,Taste
+4116,2025-10-30,Too expensive
+4127,2025-10-30,Other
+4241,2025-10-30,Other
+4464,2025-10-30,Too much coffee
+2250,2025-10-31,Too much coffee
+2616,2025-10-31,Delivery problems
+2840,2025-10-31,Taste
+3927,2025-10-31,Too much coffee
+4167,2025-10-31,Taste
+4583,2025-10-31,Other
+1756,2025-11-01,Delivery problems
+4135,2025-11-01,Too much coffee
+4159,2025-11-01,Other
+4321,2025-11-01,Taste
+4468,2025-11-01,Too expensive
+4475,2025-11-01,Other
+3914,2025-11-02,Too expensive
+4295,2025-11-02,Too expensive
+4500,2025-11-02,Delivery problems
+4522,2025-11-02,Other
+2705,2025-11-03,Too much coffee
+4269,2025-11-03,Too expensive
+4391,2025-11-03,Other
+2937,2025-11-04,Too expensive
+2939,2025-11-04,Too expensive
+3104,2025-11-04,Other
+3452,2025-11-04,Other
+4359,2025-11-04,Too expensive
+4489,2025-11-04,Too expensive
+4505,2025-11-04,Taste
+4539,2025-11-04,Other
+1301,2025-11-05,Taste
+2113,2025-11-05,Delivery problems
+3638,2025-11-05,Too much coffee
+3931,2025-11-05,Delivery problems
+4501,2025-11-05,Taste
+4281,2025-11-06,Too expensive
+3109,2025-11-07,Too expensive
+4363,2025-11-07,Other
+4613,2025-11-07,Too expensive
+4643,2025-11-07,Too expensive
+1120,2025-11-08,Other
+1582,2025-11-08,Too much coffee
+2702,2025-11-08,Delivery problems
+4392,2025-11-08,Too expensive
+4428,2025-11-08,Too expensive
+3816,2025-11-09,Too expensive
+3777,2025-11-10,Delivery problems
+3932,2025-11-10,Too much coffee
+3980,2025-11-10,Too much coffee
+4142,2025-11-10,Other
+4457,2025-11-10,Delivery problems
+4528,2025-11-10,Too expensive
+4577,2025-11-10,Other
+4680,2025-11-10,Taste
+3302,2025-11-11,Taste
+4013,2025-11-11,Too expensive
+4440,2025-11-11,Taste
+2734,2025-11-12,Delivery problems
+3661,2025-11-12,Delivery problems
+3751,2025-11-12,Taste
+4322,2025-11-12,Taste
+4442,2025-11-12,Too much coffee
+1839,2025-11-13,Taste
+1949,2025-11-13,Other
+2924,2025-11-13,Too much coffee
+3809,2025-11-13,Too much coffee
+4029,2025-11-13,Too much coffee
+3386,2025-11-14,Delivery problems
+3628,2025-11-14,Taste
+4374,2025-11-14,Too expensive
+4612,2025-11-14,Delivery problems
+2716,2025-11-15,Too expensive
+4149,2025-11-15,Other
+4179,2025-11-15,Too expensive
+4478,2025-11-15,Delivery problems
+2515,2025-11-16,Taste
+3693,2025-11-16,Too much coffee
+4474,2025-11-16,Too much coffee
+4574,2025-11-16,Delivery problems
+4629,2025-11-16,Too expensive
+1016,2025-11-17,Delivery problems
+3087,2025-11-17,Too much coffee
+3591,2025-11-17,Too expensive
+3703,2025-11-17,Taste
+4165,2025-11-17,Delivery problems
+4175,2025-11-17,Too expensive
+4376,2025-11-17,Too expensive
+4606,2025-11-17,Other
+4669,2025-11-17,Taste
+4685,2025-11-17,Delivery problems
+4691,2025-11-17,Other
+1897,2025-11-18,Delivery problems
+3439,2025-11-18,Taste
+3669,2025-11-18,Too much coffee
+4636,2025-11-18,Too expensive
+4694,2025-11-18,Delivery problems
+3782,2025-11-19,Too much coffee
+3975,2025-11-19,Taste
+4031,2025-11-19,Too much coffee
+4438,2025-11-19,Too expensive
+1487,2025-11-20,Other
+1604,2025-11-20,Too expensive
+2520,2025-11-20,Delivery problems
+2940,2025-11-20,Too expensive
+3347,2025-11-20,Delivery problems
+4503,2025-11-20,Too expensive
+1358,2025-11-21,Other
+4545,2025-11-22,Too expensive
+2750,2025-11-23,Other
+3255,2025-11-23,Other
+4329,2025-11-23,Too much coffee
+4418,2025-11-23,Taste
+4766,2025-11-23,Too expensive
+2861,2025-11-24,Other
+3462,2025-11-24,Too much coffee
+4623,2025-11-24,Delivery problems
+4732,2025-11-24,Too expensive
+4783,2025-11-24,Too much coffee
+3163,2025-11-25,Other
+3218,2025-11-25,Too expensive
+3376,2025-11-25,Too expensive
+4471,2025-11-25,Taste
+4523,2025-11-25,Too much coffee
+4554,2025-11-25,Delivery problems
+4570,2025-11-25,Delivery problems
+2206,2025-11-26,Too expensive
+3585,2025-11-26,Taste
+3821,2025-11-26,Too expensive
+4560,2025-11-26,Too expensive
+4797,2025-11-26,Too expensive
+3498,2025-11-27,Too expensive
+3826,2025-11-27,Delivery problems
+4757,2025-11-27,Other
+1528,2025-11-28,Too expensive
+2988,2025-11-28,Too expensive
+4220,2025-11-28,Taste
+4453,2025-11-28,Other
+4760,2025-11-28,Too expensive
+3493,2025-11-29,Taste
+3743,2025-11-29,Other
+4692,2025-11-29,Too much coffee
+4810,2025-11-29,Too expensive
+1798,2025-11-30,Delivery problems
+4526,2025-11-30,Too expensive
+4538,2025-11-30,Delivery problems
+4762,2025-11-30,Too much coffee
+2622,2025-12-01,Too much coffee
+3377,2025-12-01,Delivery problems
+3971,2025-12-01,Other
+4184,2025-12-01,Too much coffee
+4318,2025-12-01,Too much coffee
+4683,2025-12-01,Too expensive
+4717,2025-12-01,Too much coffee
+4852,2025-12-01,Delivery problems
+3252,2025-12-02,Too much coffee
+3851,2025-12-02,Delivery problems
+4314,2025-12-02,Taste
+4331,2025-12-02,Too expensive
+4844,2025-12-02,Taste
+2252,2025-12-03,Too much coffee
+2489,2025-12-03,Too much coffee
+3883,2025-12-03,Delivery problems
+4499,2025-12-03,Too much coffee
+4514,2025-12-03,Too expensive
+3879,2025-12-04,Too much coffee
+3959,2025-12-04,Taste
+4309,2025-12-04,Taste
+4334,2025-12-04,Too expensive
+4343,2025-12-04,Too much coffee
+4716,2025-12-04,Too expensive
+3091,2025-12-05,Other
+4772,2025-12-05,Too much coffee
+3203,2025-12-06,Other
+3342,2025-12-06,Too expensive
+3601,2025-12-06,Too much coffee
+4289,2025-12-06,Too expensive
+4802,2025-12-06,Taste
+1168,2025-12-07,Too much coffee
+1697,2025-12-07,Too expensive
+3741,2025-12-07,Delivery problems
+4011,2025-12-07,Other
+4401,2025-12-07,Too expensive
+4516,2025-12-07,Too expensive
+4564,2025-12-07,Taste
+4831,2025-12-07,Too much coffee
+3272,2025-12-08,Other
+3995,2025-12-08,Too much coffee
+4026,2025-12-08,Taste
+4436,2025-12-08,Too expensive
+4626,2025-12-08,Too much coffee
+4841,2025-12-08,Too expensive
+4862,2025-12-08,Too expensive
+2336,2025-12-09,Too much coffee
+2530,2025-12-09,Too much coffee
+3037,2025-12-09,Other
+3129,2025-12-09,Taste
+3576,2025-12-09,Too expensive
+4129,2025-12-09,Too expensive
+4182,2025-12-09,Too expensive
+4360,2025-12-09,Too much coffee
+4769,2025-12-09,Too much coffee
+4888,2025-12-09,Delivery problems
+2498,2025-12-10,Too much coffee
+3173,2025-12-10,Too expensive
+3895,2025-12-10,Too much coffee
+4112,2025-12-10,Too expensive
+4557,2025-12-10,Too expensive
+4566,2025-12-10,Taste
+4935,2025-12-10,Other
+1701,2025-12-11,Too expensive
+1855,2025-12-11,Delivery problems
+2784,2025-12-11,Delivery problems
+2910,2025-12-11,Delivery problems
+4426,2025-12-11,Other
+4578,2025-12-11,Taste
+4761,2025-12-11,Taste
+1141,2025-12-12,Delivery problems
+2047,2025-12-12,Too expensive
+3260,2025-12-12,Taste
+3300,2025-12-12,Too expensive
+3403,2025-12-12,Too expensive
+3667,2025-12-12,Taste
+4818,2025-12-12,Taste
+4833,2025-12-12,Too much coffee
+2785,2025-12-13,Delivery problems
+3557,2025-12-13,Too much coffee
+4480,2025-12-13,Delivery problems
+4660,2025-12-13,Too expensive
+4858,2025-12-13,Delivery problems
+2002,2025-12-14,Delivery problems
+3624,2025-12-14,Too much coffee
+3778,2025-12-14,Too expensive
+4822,2025-12-14,Too much coffee
+2535,2025-12-15,Too expensive
+4416,2025-12-15,Other
+3618,2025-12-16,Too expensive
+4028,2025-12-16,Taste
+4405,2025-12-16,Too expensive
+4410,2025-12-16,Taste
+4625,2025-12-16,Taste
+1870,2025-12-17,Too much coffee
+3069,2025-12-17,Delivery problems
+3465,2025-12-17,Delivery problems
+3689,2025-12-17,Taste
+4001,2025-12-17,Delivery problems
+4393,2025-12-17,Too expensive
+4731,2025-12-17,Delivery problems
+4963,2025-12-17,Taste
+3598,2025-12-18,Too expensive
+3861,2025-12-18,Too expensive
+4197,2025-12-18,Too much coffee
+4518,2025-12-18,Delivery problems
+4832,2025-12-18,Too expensive
+1495,2025-12-19,Other
+4205,2025-12-19,Too expensive
+4229,2025-12-19,Too much coffee
+5005,2025-12-19,Taste
+1754,2025-12-20,Taste
+3237,2025-12-20,Delivery problems
+3774,2025-12-20,Other
+3813,2025-12-20,Other
+4665,2025-12-20,Taste
+3464,2025-12-21,Delivery problems
+2890,2025-12-22,Too much coffee
+3177,2025-12-22,Taste
+4277,2025-12-22,Delivery problems
+4408,2025-12-22,Other
+4713,2025-12-22,Too expensive
+4722,2025-12-22,Delivery problems
+4725,2025-12-22,Too much coffee
+4767,2025-12-22,Other
+5069,2025-12-22,Delivery problems
+3198,2025-12-23,Delivery problems
+4005,2025-12-23,Delivery problems
+4235,2025-12-23,Too expensive
+4443,2025-12-23,Taste
+4854,2025-12-23,Taste
+4929,2025-12-23,Too much coffee
+4989,2025-12-23,Too expensive
+5000,2025-12-23,Delivery problems
+3341,2025-12-24,Delivery problems
+3676,2025-12-24,Taste
+4199,2025-12-24,Too expensive
+4517,2025-12-24,Taste
+4748,2025-12-24,Too much coffee
+4930,2025-12-24,Delivery problems
+5043,2025-12-24,Too much coffee
+5083,2025-12-24,Too much coffee
+1948,2025-12-25,Too much coffee
+3258,2025-12-25,Too much coffee
+3662,2025-12-25,Too expensive
+4531,2025-12-25,Taste
+4681,2025-12-25,Too much coffee
+4688,2025-12-25,Too expensive
+4941,2025-12-25,Too much coffee
+4979,2025-12-25,Delivery problems
+2423,2025-12-26,Other
+3550,2025-12-26,Too much coffee
+4232,2025-12-26,Taste
+5051,2025-12-26,Too expensive
+5057,2025-12-26,Other
+1518,2025-12-27,Too expensive
+3348,2025-12-27,Too much coffee
+3917,2025-12-27,Too expensive
+4307,2025-12-27,Delivery problems
+4362,2025-12-27,Too much coffee
+4994,2025-12-27,Too expensive
+5071,2025-12-27,Taste
+1024,2025-12-28,Taste
+2240,2025-12-28,Delivery problems
+3549,2025-12-28,Delivery problems
+4150,2025-12-28,Delivery problems
+4739,2025-12-28,Taste
+2043,2025-12-29,Too expensive
+3759,2025-12-29,Too expensive
+4961,2025-12-29,Too expensive
+5060,2025-12-29,Too expensive
+5129,2025-12-29,Taste
+2042,2025-12-30,Other
+3353,2025-12-30,Other
+3545,2025-12-30,Delivery problems
+3915,2025-12-30,Delivery problems
+4039,2025-12-30,Taste
+4589,2025-12-30,Too much coffee
+5025,2025-12-30,Too much coffee
+5030,2025-12-30,Taste
+4546,2025-12-31,Taste
+4957,2025-12-31,Too much coffee
