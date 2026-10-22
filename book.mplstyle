@@ -2,9 +2,8 @@
 # Load it with plt.style.use('book.mplstyle') so your charts match the book.
 
 # Four colors that stay different when printed in black and white:
-# dark teal, amber, light teal, sand. Lines also change style
-# (solid, dashed, dotted, dash-dot) so they can be told apart in gray.
-axes.prop_cycle: cycler('color', ['0b3a47', 'b26a00', '6fb3c2', 'f0c987']) + cycler('linestyle', ['-', '--', ':', '-.'])
+# dark teal, amber, light teal, sand (dark gray, mid gray, light gray, pale gray).
+axes.prop_cycle: cycler('color', ['0b3a47', 'b26a00', '6fb3c2', 'f0c987'])
 
 # Size in inches (fits a printed book page) and text sizes in points
 figure.figsize: 5.5, 3.4
@@ -18,3 +17,6 @@ legend.fontsize: 9
 lines.linewidth: 2
 axes.axisbelow: True
 grid.color: d9dde1
+
+# Saved files (savefig) keep the axis labels instead of clipping them
+savefig.bbox: tight
