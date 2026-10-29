@@ -22,8 +22,8 @@ Section 1.1 of the book shows how to install Python, Jupyter and the libraries. 
 folder and either open a chapter's notebook or create your own notebook in the same folder, so it can find the
 data files by name.
 
-The notebooks were tested with Python 3.14, pandas 3.0, NumPy 2.5, SciPy 1.18, statsmodels 0.15, seaborn 0.13
-and matplotlib 3.11.
+The notebooks were tested with Python 3.14, pandas 3.0, NumPy 2.5, SciPy 1.18, statsmodels 0.15, seaborn 0.13,
+matplotlib 3.11 and pyarrow.
 
 ## Found a mistake?
 
